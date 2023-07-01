@@ -1,7 +1,7 @@
 using System;
 
 namespace csharp.ru {
-public class Program {
+public class Program5 {
 
 public static void Main(string[] args) {
 Console.WriteLine(method1());
